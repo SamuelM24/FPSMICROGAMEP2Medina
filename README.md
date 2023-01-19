@@ -1,2 +1,2 @@
-# FPSMICROGAMEP2Medina
+# FPSMICRO
 repo for fps micro game
